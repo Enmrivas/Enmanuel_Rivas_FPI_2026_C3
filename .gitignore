@@ -55,3 +55,8 @@ dkms.conf
 *.dwo
 
 digital/
+*.cbp
+bin/
+obj/
+*.depend
+*.layout
